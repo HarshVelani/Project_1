@@ -1,0 +1,89 @@
+pid,Technical Name,Commercial Name,Type,Packaging,Rate Per Packing,Rate Per liter/kg,Stock
+1,Acephate 75 SP,Asataf  Railis,Insecticde,500 g,490,980,104
+2,Chlorpyrifos 20 EC,Chlorogaurd Gharda,Insecticde,1 Liter,325,325,100
+3,Chlorpyrifos 20 EC,Sacban Shivalik,Insecticde,1 Liter,350,350,100
+4,Chlorpyrifos 20 TC,Sacban TC Shivalik,Insecticde,1 Liter,650,650,100
+5,Dichlorvos 76 SC,Dysac Shivalik,Insecticde,1 Liter,580,580,100
+6,Dichlorvos 76 SC,Coach GSP,Insecticde,1 Liter,550,550,100
+7,Dimethoate 30 EC,Tafgor Railis,Insecticde,1 Liter,495,495,100
+8,Malathion 50 EC,Tusk Shivalik,Insecticde,1 Liter,390,390,100
+9,Monocrotophos 36 SL,Monolik Shivalik,Insecticde,1 Liter,540,540,92
+10,Monocrotophos 36 SL,Monomar GSP,Insecticde,1 Liter,505,505,100
+11,Profenofos 50 EC,Prosac Shivalik,Insecticde,1 Liter,690,690,100
+12,Quainalphos 25 EC,Flash  Indofil,Insecticde,1 Liter,475,475,100
+13,Quainalphos 25 EC,Skill Shivalik,Insecticde,1 Liter,450,450,100
+14,Triazophos 40 EC,Tryzo Shivalik,Insecticde,1 Liter,590,590,100
+15,Carbofuran 3 CG,Furasac Shivalik,Insecticde,1 kg,100,100,95
+16,Alphacypermethrin 10 EC,Alphagaurd Gharda,Insecticde,1 Liter,390,390,100
+17,Alphacypermethrin 10 EC,Falcon Shivalik,Insecticde,1 Liter,390,390,36
+18,Deltamethrin 11 EC ,Boxer Gharda,Insecticde,1 Liter,1650,1650,100
+19,Fenvalerate 20 EC,Fenlik20% Shivalik,Insecticde,1 Liter,450,450,100
+20,Fenvalerate 0.4% DP,Fenlik Shivalik,Insecticde,1 Liter,300,300,90
+21,Lambda Cyhalothrin 2.5 EC,Reeva 2.5  Railis,Insecticde,1 Liter,390,390,101
+22,Lambda Cyhalothrin 5 EC,Reeva 5  Railis,Insecticde,1 Liter,590,590,100
+23,Indoxacarb 15.8 EC (14.5 EC),Kingdoxa Gharda,Insecticde,500 ml,1650,3300,100
+25,Fipronil 0.3 GR,Agent Shivalik,Insecticde,1 kg,80,80,100
+26,Fipronil 5 SC,Mahaveer Gr Gharda,Insecticde,1 Liter,990,990,100
+27,Fipronil 5 SC,Agent 5SC Shivalik,Insecticde,1 Liter,950,950,100
+28,Acetamiprid 20 SP,Manik Rallis,Insecticde,100 g,246,246,100
+29,Imidacholoprid 17.8 SL,Atom lndofil,Insecticde,100 mL,150,1500,100
+30,Imidacholoprid 17.8 SL,Tatamida Rallis,Insecticde,100 ml,225,2250,101
+31,Imidacholoprid 17.8 SL,Maharaja Gharda,Insecticde,100 ml,150,1500,99
+32,Thiamethoxam 25 WG,Slayer GSP,Insecticde,100 g,195,1950,100
+33,Thiamethoxam 25 WG,Sactara Shivalik,Insecticde,100 g,190,1900,49
+34,Chlorantraniliprole 18.5 SC,Coragen,Insecticde,150 ml,2290,15267,50
+35,Cartap 4 GR,Kraft 4G Gharda,Insecticde,5 kg,450,90,91
+36,Cartap 4 GR,Kildan Shivalik,Insecticde,1 kg,100,100,100
+37,Cartap 4 GR,Carban GR GSP,Insecticde,5 kg,500,100,100
+38,Cartap 50 SP,Kildan SP Shiyalik,Insecticde,500 g,475,950,100
+39,Cartap 50 SP,Carban SP GSP,Insecticde,500 g,580,1160,100
+40,Buprofezin 25 SC,Applaud Rallis,Insecticde,1 Liter,1035,1035,100
+41,Buprofezin 25 SC,Machan Gharda,Insecticde,1 Liter,680,680,100
+42,Aluminium Phosphide 56% Powder (R),Safesilo,Insecticde,100 g,150,1500,100
+43,Chlorpyrifos 50% + Cypermethrin 5% E,Hamla Gharda,Insecticde,1 Liter,680,680,49
+44,Chlorpyrifos 50% + Cypermethrin 5% E,Koranda Rallis,Insecticde,1 Liter,790,790,123
+45,Triazophos 35% + Deltamethrin 1 0/0 EC,Shikari  Ghardha,Insecticde,1 Liter,650,650,100
+46,Profenofos 40% + Cypermethrin 4% EC,Jugaar Gharda,Insecticde,1 Liter,600,600,100
+47,Phorate 10 CG (G),Phorolik Shivalik,Insecticde,1 kg,80,80,100
+48,Chlorothalonil 75 WP,Ishaan Rallis,Fungicide,500 gm,680,1360,100
+49,Streptomycin,Streptosac Shivalik,Fungicide,6 gm,45,7500,100
+50,Carbendazem 50 WP,Benfil  Indofil,Fungicide,100 gm.,75,750,100
+51,Thiophenate-Methyl 70 WP,Uppay Gharda,Fungicide,1 Kg,950,950,100
+52,Copper Oxychloride 50 WP,Blitox Rallis,Fungicide,500 gm,345,690,100
+53,llexaconazole 5 EC,Contaf Rallis,Fungicide,1 Litre,660,660,100
+54,Propiconozole 25 EC,Final GSP,Fungicide,1 Liter,980,980,100
+55,Propiconozole 25 EC,Dhan lndofil,Fungicide,1 Liter,1090,1090,100
+56,Propiconozole 25 EC,Propigaurd Gharda,Fungicide,1 Liter,980,980,100
+57,Captan 75 WS,Captaf Rallis,Fungicide,500gm,320,640,100
+58,Mancozeb 75 WP,Indofil M45 Indofil,Fungicide,500gm,205,410,100
+59,Thiram 75 WDP,Thiram Shivalik,Fungicide,100 ml,48,480,50
+60,Sulphur 80 WDG,Gharda Sulpho,Fungicide,1 Kg,140,140,100
+61,Metalaxyl 8% + Mancozeb 64 % WP,Matco lndofil,Fungicide,100 gm,144,1440,100
+62,Carbendazim 12% + Mancozeb 63% WP,Companion lndofil,Fungicide,100 gm,72,720,100
+63,Butachlor 50% EC,Paklor Shivalik,Herbicide,1 Liter,300,300,100
+64,Pretilachlor 50 EC,Preet Rallis,Herbicide,1 Liter,540,540,100
+65,Pretilachlor 50 EC,Blaid Gharda,Herbicide,1 Liter,500,500,140
+66,Pendimethalin 30 EC,Penidgaurd Gharda,Herbicide,1 Liter,490,490,100
+67,Pendimethalin 30 EC,Tata Panda,Herbicide,1 Liter,540,540,100
+68,Anilophos 30 EC,Anilogaurd Gharda,Herbicide,1 Liter,450,450,100
+69,Anilophos 30 EC,Anolik Shivalik,Herbicide,1 Liter,320,320,100
+70,Glyphosate 41 SL,Glyder Gharda,Herbicide,1 Liter,380,380,150
+71,Glyphosate 41 SL,Runout GSP,Herbicide,1 Liter,380,380,120
+72,2 4-D Ethyl Easter 38 EC,Sackweed38 ShivaIik,Herbicide,1 Liter,390,390,100
+73,2 4-D Amine Salt 58 SL,Sackweed58 Shivalik,Herbicide,1 Liter,450,450,79
+74,2 4-D Sodium Salt 80 WP,Sackweed80 Shivalik,Herbicide,500 gm,170,340,86
+75,Clodinafop 15 WP,Topaz Shivalik,Herbicide,160 gm,300,1875,100
+76,Paraquat 24 EC,Parasac Shivalik,Herbicide,500 ml,225,450,100
+77,Metsulfuron Methyl 20 WP,Sacgrip Shivalik,Herbicide,8 gm,130,16250,100
+78,Sulfosulfuron 75 WG,Clear GSP,Herbicide,13.5 gm,395,29260,100
+79,Sulfosulfuron 75 WG,Safal Gharda,Herbicide,13.5 gm,450,33333,100
+80,Atrazine 50 WP,Atrataf Rallis,Herbicide,500 gm,208,416,100
+81,Metribuzen 70 WP,TataMetri Rallis,Herbicide,100gm,226,2260,100
+82,Metribuzen 70 WP,Sacon Shivalik,Herbicide,100gm,225,2250,100
+83,Bisbyribac Sodium 10 EC,Takila Gharda,Herbicide,200 ml,1440,7200,100
+84,Bisbyribac Sodium 10 EC,Taarak Rallis,Herbicide,200 ml,1493,7465,100
+85,Imazethapyr 10 EC,Style GSP,Herbicide,1 Liter,1300,1300,100
+86,Imazethapyr 10 EC,Passport Indofil,Herbicide,1 Liter,1300,1300,100
+87,Acephate,gharda,insecticide,1 kg,500,500,100
+88,Monocrotophos,Monomar,insecticide,500 Liter,250,500,100
+89,Metribuzen 70 WP,Tata Meri,Herbicide,500 g,500,1000,150

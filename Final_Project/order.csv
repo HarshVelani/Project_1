@@ -1,0 +1,27 @@
+Order Id,Sr. No.,Date of Purchase,Time of Purchase,First Name,Last Name,Address,Contact No,pid,Technical Name,Commercial Nam,Type,Packaging,Rate per Packing,Rate per liter/kg,No. of Packings purchased,Total price,Grand Total
+1,2,2023-11-17,16:07:41,Darshan,Gajera,Kesod,8794563214,5,Dichlorvos 76 SC,Dysac- Shivalik,Insecticide,1 Liter,580,580,3,1740,2720
+1,1,2023-11-17,16:07:41,Darshan,Gajera,Kesod,8794563214,1,Acehate 75 SP,Asataf - Railis,Insecticide,500 g,490,980,2,980,NA
+2,1,2023-11-22,18:56:03,Jasmin,Babariya,ranpur,4561234567,9,Monocrotophos 36 SL,Monolik-Shivalik,Insecticide,1 Liter,540,540,1,540,NA
+2,2,2023-11-22,18:56:03,Jasmin,Babariya,ranpur,4561234567,21,Lambda Cyhalothrin 2.5 EC,Reeva 2.5 - Railis,Insecticide,1 Liter,390,390,1,390,930
+4,1,2023-11-15,20:55:08,Smit,Gondaliya,Junagadh,4561234561,44,Chlorpyrifos 50% + Cypermethrin 5% E,Koranda-Rallis,Insecticde,1 Liter,790,790,5,3950,NA
+4,2,2023-11-15,20:57:25,Smit,Gondaliya,Junagadh,4561234561,47,Phorate 10 CG (G),Phorolik-Shivalik,Insecticde,1 kg,80,80,5,400,4350
+5,1,2023-11-23,18:09:30,Deep,Rabadiya,Jamnagar,8754632189,47,Phorate 10 CG (G),Phorolik-Shivalik,Insecticde,1 kg,80,80,5,400,NA
+5,2,2023-11-23,18:09:30,Deep,Rabadiya,Jamnagar,8754632189,44,Chlorpyrifos 50% + Cypermethrin 5% E,Koranda-Rallis,Insecticde,1 Liter,790,790,36,28440,28840
+8,1,2023-11-23,18:35:10,Sanket,Gondaliya,Junagadh,8796541234,41,Buprofezin 25 SC,Machan-Gharda,Insecticde,1 Liter,680,680,5,3400,NA
+8,2,2023-11-23,18:35:10,Sanket,Gondaliya,Junagadh,8796541234,43,Chlorpyrifos 50% + Cypermethrin 5% E,Hamla-Gharda,Insecticde,1 Liter,680,680,5,3400,6800
+9,1,2023-11-17,15:47:16,Harsh,Velani,Kotda,4561236541,43,Chlorpyrifos 50% + Cypermethrin 5% E,Hamla Gharda,Insecticde,1 Liter,680,680,5,3400,NA
+9,2,2023-11-17,15:47:52,Harsh,Velani,Kotda,4561236541,28,Acetamiprid 20 SP,Manik Rallis,Insecticde,100 g,246,246,70,17220,20620
+10,1,2023-11-17,15:49:26,Darshan,Gajera,Kesod,7894561234,43,Chlorpyrifos 50% + Cypermethrin 5% E,Hamla Gharda,Insecticde,1 Liter,680,680,51,34680,NA
+10,2,2023-11-17,15:49:36,Darshan,Gajera,Kesod,7894561234,1,Acephate 75 SP,Asataf  Railis,Insecticde,500 g,490,980,40,19600,54280
+11,1,2023-11-22,19:02:03,Deep,Pethani,Surat,8795462134,1,Acephate 75 SP,Asataf  Railis,Insecticde,500 g,490,980,2,980,980
+12,1,2023-11-22,22:34:04,Hemant,B S,Shivamogga,9353454180,31,Imidacholoprid 17.8 SL,Maharaja Gharda,Insecticde,100 ml,150,1500,1,150,150
+13,1,2023-11-23,17:30:11,Parth,Patel,Gandhinagar,7894561234,20,Fenvalerate 0.4% DP,Fenlik Shivalik,Insecticde,1 Liter,300,300,10,3000,NA
+13,2,2023-11-23,17:30:50,Parth,Patel,Gandhinagar,7894561234,9,Monocrotophos 36 SL,Monolik Shivalik,Insecticde,1 Liter,540,540,5,2700,5700
+14,1,2023-11-23,22:02:42,Piyush,Pandya,Palanpur,9996969996,15,Carbofuran 3 CG,Furasac Shivalik,Insecticde,1 kg,100,100,5,500,500
+15,1,2023-11-23,23:11:32,Ram,Patel,Bhuj,8654732145,33,Thiamethoxam 25 WG,Sactara Shivalik,Insecticde,100 g,190,1900,51,9690,NA
+15,2,2023-11-23,23:11:32,Ram,Patel,Bhuj,8654732145,34,Chlorantraniliprole 18.5 SC,Coragen,Insecticde,150 ml,2290,15267,50,114500,NA
+15,3,2023-11-23,23:11:32,Ram,Patel,Bhuj,8654732145,35,Cartap 4 GR,Kraft 4G Gharda,Insecticde,5 kg,450,90,9,4050,128240
+16,1,2023-11-24,00:01:59,Het,Patel,Bhachau,8756412368,73,2 4-D Amine Salt 58 SL,Sackweed58 Shivalik,Herbicide,1 Liter,450,450,21,9450,NA
+16,2,2023-11-24,00:02:23,Het,Patel,Bhachau,8756412368,74,2 4-D Sodium Salt 80 WP,Sackweed80 Shivalik,Herbicide,500 gm,170,340,14,2380,11830
+17,1,2023-12-03,14:16:13,Harshal,Patel,Kotda,8754693214,9,Monocrotophos 36 SL,Monolik Shivalik,Insecticde,1 Liter,540,540,5,2700,NA
+17,2,2023-12-03,14:16:43,Harshal,Patel,Kotda,8754693214,59,Thiram 75 WDP,Thiram Shivalik,Fungicide,100 ml,48,480,50,2400,5100

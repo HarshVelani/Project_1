@@ -1,5 +1,5 @@
 def main():
-    
+    print("Welcome to the Agro Shop Retail Management System !")
     print("1. Worker \n2. Manager")
     c = input("Enter Choice 1/2 : ")
     print("------------------------------------------------------------")
@@ -7,10 +7,12 @@ def main():
     if c == "1":
         worker()
     elif c == "2":
+        # login details for manager
         print("1. Login \n2. Change Password")
         con = input("Enter Choice 1/2 : ")
         print("------------------------------------------------------------")
         if con == '1' :
+            # validation of Credentials
             p = input("Enter Password : ")
             with open("password.txt", "r") as psw:
                 sec = psw.read()
@@ -18,6 +20,7 @@ def main():
             if sec == p:
                 manager()
         elif con == '2':
+            # for changing password
             p = input("Enter Password : ")
             with open("password.txt", "r") as psw:
                 sec = psw.read()
@@ -89,6 +92,7 @@ def manager():
         manager()
 
 
+# User define function to read csv file and gives output in list of list where each inner list is the row
 def read_csv(filepath):
     with open(filepath, "r") as f:
         da = f.readlines()
@@ -100,6 +104,7 @@ def read_csv(filepath):
     return main_lis
 
 
+# User define function to write csv file same as above
 def write_csv(filepath, list_of_list):
     with open(filepath, "w") as g:
         for line in list_of_list:
@@ -108,7 +113,10 @@ def write_csv(filepath, list_of_list):
             g.write(coma_line)
 
 
+
+# User define function to view Stock
 def view_stock():
+
     filepath = "product.csv"
     main_list = read_csv(filepath)
 
